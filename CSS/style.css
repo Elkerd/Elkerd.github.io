@@ -1,0 +1,30 @@
+
+body {
+
+	font-family: helvetica;
+	color: white;
+	text-align: left;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	color: green;
+}
+
+
+h2 {
+	text-align: center;
+	color: gray;
+}
+
+h3{
+	text-align: center;
+	color: maroon;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
